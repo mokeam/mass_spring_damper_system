@@ -13,6 +13,9 @@ The ”Mass-Spring-Damper“ System is a typical system used to demonstrate and 
 ## State Space Model
 ![alt State Space Model](src/state_space_model.png)
 <br/>
+### Simulation
+![alt State Space Model](plots/2.png)
+<br/>
 
 ## Discretization
 ![alt Discretization](src/discretization.png)
